@@ -1,0 +1,16 @@
+site_name: Портфолио Дениса Лимарева
+site_url: https://Dennnis-2020.github.io/portfolio
+theme:
+  name: material
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition # Блоки !!! note, !!! warning
+  - pymdownx.details # Сворачиваемые блоки
+  - pymdownx.superfences # Вложенные блоки кода
+  - pymdownx.tabbed: # Табы
+
+nav:
+  - Примеры моих работ: index.md
