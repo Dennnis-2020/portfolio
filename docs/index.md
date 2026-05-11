@@ -27,7 +27,7 @@
 ## Резюме
 
 * [Моё резюме на HH.RU](https://tomsk.hh.ru/resume/bbc38791ff09ca9e1a0039ed1f5148654a7830).
-* [Моё резюме в формате PDF](limarev-cv.pdf).
+* [Моё резюме в формате PDF](limarevda-cv.pdf).
 
 ---
 
